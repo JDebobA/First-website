@@ -1,0 +1,7 @@
+/* Base style */
+@import '../base/base.css';
+
+/* block */
+@import '../block/main.css';
+@import '../block/games.css';
+@import '../block/features.css';
