@@ -1,0 +1,38 @@
+.projects {
+    padding: 100px;
+}
+
+.projects h3 {
+    font-size: 30px;
+    text-align: center;
+}
+
+.projects p {
+    margin: 40px 0;
+    text-align: center;
+}
+
+.projects .images {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 25px;
+    max-width: 1250px;
+}
+
+.projects .see-all {
+    color: #fff;
+    background: #25211D;
+    border-radius: 5px;
+    padding: 12px 23px;
+    float: none;
+    display: block;
+    transition: all 300ms ease;
+    width: 55px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.projects .see-all:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+}
