@@ -118,3 +118,12 @@ header nav ul li.btn a:hover {
     top: -150px;
     right: 0;
 }
+
+
+
+
+
+.about {
+    background: linear-gradient(180deg,rgba(0, 0, 0, 1) 0%, rgba(26, 14, 1, 1) 100%);
+    width: 100%;
+}
